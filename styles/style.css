@@ -1,0 +1,21 @@
+h1,h3,p
+{
+	color: green;
+	text-align: center;
+}
+
+img
+{	
+	display: block;
+	margin: auto;
+	border: solid black 5px;
+	width: 350px;
+	height: 300px;
+}
+
+html
+{
+	border: solid black 3px;
+	width: 750px;
+	margin: auto;
+}
