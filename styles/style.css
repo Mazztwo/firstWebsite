@@ -13,9 +13,16 @@ img
 	height: 300px;
 }
 
-html
+#mainContent
 {
 	border: solid black 3px;
 	width: 750px;
+	font-family: 'Farsan', cursive;
 	margin: auto;
+	background-color: rgb(152, 160, 173);
+}
+
+html
+{
+	background-color: rgb(137, 137, 137);
 }
